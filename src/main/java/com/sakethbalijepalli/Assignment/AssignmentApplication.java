@@ -23,7 +23,7 @@ public class AssignmentApplication implements CommandLineRunner {
         employeeService.addEmployee(e);
         e = new EmployeeDto("rohan", "hyd", "9193291", "IT");
         employeeService.addEmployee(e);
-        e = new EmployeeDto("yashu", "hyd", "9193291", "IT");
+        e = new EmployeeDto("medhu", "hyd", "9193291", "IT");
         employeeService.addEmployee(e);
         e = new EmployeeDto("sravya", "hyd", "9193291", "IT");
         employeeService.addEmployee(e);
